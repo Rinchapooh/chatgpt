@@ -4,5 +4,6 @@
 
 xdebug_info();
 
-echo "Hello";
+echo "Hello world";
+
 
